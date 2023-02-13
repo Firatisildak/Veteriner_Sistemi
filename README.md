@@ -1,6 +1,7 @@
 # Veteriner_Sistemi
 ##Projenin Amacı
-Veterinerde çalışan veterinerlerin ve gelen müşterilerin hayvan bilgilerini tutatn bir similasyondur.
+
+Veterinerde çalışan personelleri ve gelen müşterilerin hayvan bilgilerini tutatn bir similasyondur.
 
 
 ##Çalışma Adımları
